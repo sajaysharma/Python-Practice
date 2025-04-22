@@ -1,0 +1,17 @@
+student-marks-analysis/data/students.csv
+name,subject,marks
+Alice,Math,88
+Alice,Science,92
+Alice,English,85
+Bob,Math,75
+Bob,Science,80
+Bob,English,78
+Charlie,Math,95
+Charlie,Science,90
+Charlie,English,93
+David,Math,70
+David,Science,65
+David,English,72
+Eva,Math,82
+Eva,Science,88
+Eva,English,84
